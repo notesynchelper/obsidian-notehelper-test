@@ -1,7 +1,7 @@
 {
   "id": "notehelper-test",
   "name": "笔记同步助手 Test",
-  "version": "3.2.2",
+  "version": "3.2.15",
   "minAppVersion": "0.15.0",
   "description": "Test channel of NoteHelper. Capture content from WeChat Official Accounts, Xiaohongshu, Dedao, Yuanbao, and Zhihu.",
   "author": "NoteHelper Team",
